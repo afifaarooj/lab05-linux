@@ -1,0 +1,18 @@
+total 68
+drwxr-x--- 12 afifaarooj afifaarooj 4096 Oct 16 06:45 .
+drwxr-xr-x  3 root       root       4096 Sep 16 20:02 ..
+-rw-------  1 afifaarooj afifaarooj  120 Sep 21 03:45 .bash_history
+-rw-r--r--  1 afifaarooj afifaarooj  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 afifaarooj afifaarooj 3771 Feb 13  2026 .bashrc
+drwx------  2 afifaarooj afifaarooj 4096 Sep 16 20:34 .cache
+-rw-rw-r--  1 afifaarooj afifaarooj  186 Oct 16 06:37 .gitconfig
+-rw-r--r--  1 afifaarooj afifaarooj  807 Feb 13  2026 .profile
+drwx------  2 afifaarooj afifaarooj 4096 Oct 16 06:33 .ssh
+drwxrwxr-x  6 afifaarooj afifaarooj 4096 Oct 10 21:09 Assignment01
+drwxrwxr-x  5 afifaarooj afifaarooj 4096 Oct 10 17:25 CC
+drwxrwxr-x  3 afifaarooj afifaarooj 4096 Oct 10 17:49 Gitea
+drwxrwxr-x  2 afifaarooj afifaarooj 4096 Oct 16 06:45 evidence
+drwxrwxr-x  2 afifaarooj afifaarooj 4096 Oct 10 19:38 gitea-runner
+drwxrwxr-x  5 afifaarooj afifaarooj 4096 Oct 16 06:37 lab05-linux
+drwxrwxr-x  2 afifaarooj afifaarooj 4096 Sep 21 03:42 mylab
+drwxrwxr-x  2 afifaarooj afifaarooj 4096 Oct 16 06:45 notes
